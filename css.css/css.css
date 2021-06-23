@@ -1,0 +1,88 @@
+article {
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid black;
+    width: 500px;
+    align-items: center
+
+}
+
+:root {
+    font-size: 16px;
+}
+
+ 
+.backgroundcolor{
+    background-color: rgb(23,162,184);
+    width: 500px;
+    height: 250px;
+}
+
+.info {
+    display: inline-block;
+}
+
+.port {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px inset green;
+    margin-top: -50%;
+}
+
+.brr {
+    max-width: 400px;
+    text-align: center;
+    color: black;
+}
+
+.info > ul > li {
+    list-style-image: url('../src/map-marker.svg');
+    font-size: 20px;
+}
+
+ 
+
+.button1 {
+    background-color: rgb(40,167,69);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button2 {
+    background-color: rgb(23,162,184);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.descr {
+    display: inline-block;
+    max-width: 400px;
+}
+
+.footer-backgraoundcolor2 {
+   background-color:  rgb(23,162,184);
+   width: 500px;
+   height: 100px;    
+   
+} 
+
+.acust {
+    display: inline-block;
+    padding: 8% 0%;
+}
+
+
+.forall {
+    margin: 25px 0px;
+}
